@@ -8,6 +8,7 @@ if final.text == "Error":
     print("Link is Not valid! Retry")
     sys.exit(1)
 
+
 else:
     print (short)
     print("Shortened Link: " + final.text)
